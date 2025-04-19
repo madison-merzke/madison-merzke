@@ -1,6 +1,7 @@
 ## Madison Merzke, MAS, BPH
 
 Data scientist and R programmer. Background in public health, currently working with command/workplace climate data. 
+
 [My list of free R resources](https://madison-merzke.github.io/free_R_resources/free_R_resources_list.html)
 <!--
 **madison-merzke/madison-merzke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
